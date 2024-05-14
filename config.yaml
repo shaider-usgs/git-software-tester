@@ -60,6 +60,9 @@ contact: 'shaider@usgs.gov' # FIXME
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
+- open-source-open-science.md
+- policy.md
+- creating-metadata.md
 
 # Information for Learners
 learners: 
