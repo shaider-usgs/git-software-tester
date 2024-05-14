@@ -12,6 +12,7 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Understand policy hierarchy relationship between federal, agency, and USGS authorities.
+- Explain policy hierarchy relationship between federal, agency, and USGS authorities.
+- Explain criteria that trigger a requirement to release a USGS softtware as an official USGS software information product.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
