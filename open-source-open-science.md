@@ -15,7 +15,8 @@ exercises: 0
 ::::::::::::::::::::::::::::::::::::: objectives
 
 - Define open science and open source development
-- Explain how an open approach is valuable
+- Explain pros and cons
 - List attributes that make a research project open
+- Explain how you could publish at the end or beginning
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
