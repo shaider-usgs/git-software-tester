@@ -1,6 +1,15 @@
-# The Carpentries Workbench Template Markdown Lesson
+# USGS GitLab and Software Releases
 
-This lesson is a template lesson that uses [The Carpentries Workbench][workbench]. 
+This lesson will help USGS researchers and software developers learn the following:
+- Create a Git Repository for tracking version controlled software
+- Collaborate with others using USGS GitLab.
+- Create a USGS-compliant software release package with source code, metadata, disclaimers, license, and citation
+- Submit a software release package for publication
+
+## Contributors
+Saira Haider
+Eric Martinez
+Madison Langseth
 
 ## Note about lesson life cycle stage
 Although the `config.yaml` states the life cycle stage as pre-alpha, **the template is stable and ready to use**. The life cycle stage is preset to `"pre-alpha"` as this setting is appropriate for new lessons initialised using the template.
