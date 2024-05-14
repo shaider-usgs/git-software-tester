@@ -17,6 +17,7 @@ exercises: 0
 - Explain what a code.json file is and how it is used.
 - Create a code.json file with the minimum required fields for a USGS Software Release
 - Validate a code.json file against the defined schema
+- Update a code.json file for a new version of the software
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
