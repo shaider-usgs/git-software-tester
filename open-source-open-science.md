@@ -32,11 +32,11 @@ TRUE or FALSE
 
 USGS allows open development practices which do not violate peer review requirements.
 
-:::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::: solution
+:::::::::: ::::::::::::::::::::::: solution
 
 TRUE. You can start a provisional release and follow open development practices. We'll talk more about that in later episodes.
 
 :::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::
