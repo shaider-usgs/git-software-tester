@@ -21,3 +21,26 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+
+::::::::::::::::::::::::::::::::::::: challenge
+
+### Creating a code.json file
+
+Write a code.json metadata file for [this example software release] (https://code.usgs.gov).
+
+:::::::::::::::::::::::::::: solution
+
+### Solution
+
+```
+ADD code.json code here
+```
+
+:::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+
+
