@@ -19,3 +19,14 @@ exercises: 0
 - Explain requirements for releasing software as an official USGS software information product.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::
+:::: challenge
+
+This is the question
+
+:::: solution
+
+This is the answer
+
+:::::::::::::::
