@@ -24,7 +24,7 @@ exercises: 0
 
 :::::::::::::: challenge
 
-Select from which source(s) there policies governing release of official USGS information software products.
+Select from which source(s) there exist policies governing the release of official USGS information software products.
 
 A. Federal
 
