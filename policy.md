@@ -20,9 +20,10 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Challenge 1: Identifying relevant policies
 
 :::::::::::::: challenge
+
+### Challenge 1: Identifying relevant policies
 
 Select from which source(s) there exist policies governing the release of official USGS information software products.
 
