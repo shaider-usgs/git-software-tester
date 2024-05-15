@@ -21,10 +21,9 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-
 Here's some example text for the lesson.
 
-::::::::::::::::::::::::::::::::::::::::::: challenge
+:::::::::::::::::::::::::::::::::::::::::::::::: challenge
 
 ## Challenge 1: Does USGS support open development? 
 
@@ -32,11 +31,8 @@ TRUE or FALSE
 
 USGS allows open development practices which do not violate peer review requirements.
 
-
-::::::::::::::::::::::::::::::::: solution
+:::::::::::::::::::: solution
 
 TRUE. You can start a provisional release and follow open development practices. We'll talk more about that in later episodes.
-
-:::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
