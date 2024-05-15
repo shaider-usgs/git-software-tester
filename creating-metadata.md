@@ -32,7 +32,7 @@ Write a code.json metadata file for [this example software release](https://code
 
 ### Solution
 
-```
+```json
 ADD code.json code here
 ```
 
