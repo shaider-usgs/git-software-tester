@@ -25,7 +25,7 @@ exercises: 0
 
 ### Challenge 1: Identifying relevant policies
 
-Select from which source(s) there exist policies governing the release of official USGS information software products.
+Select from which source(s) there exist policies governing the release of official USGS software information products.
 
 A. Federal
 
