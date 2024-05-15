@@ -25,13 +25,16 @@ exercises: 0
 :::::::::::::: challenge
 
 Select from which source(s) there policies governing release of official USGS information software products.
+
 A. Federal
+
 B. Departmental
+
 C. Bureau
+
 D. Local
 
 :::: solution
-
 
 Policies are known to exist for each of (A), (B), and (C) sources.
 Additionally Science Centers and offices may implement additional policies with which you must comply.
