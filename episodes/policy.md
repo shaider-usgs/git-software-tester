@@ -22,7 +22,7 @@ exercises: 0
 
 ## Challenge 1: Identifying relevant policies
 
-:::: challenge
+:::::::::::::: challenge
 
 Select from which source(s) there policies governing release of official USGS information software products.
 A. Federal
@@ -32,7 +32,10 @@ D. Local
 
 :::: solution
 
+
 Policies are known to exist for each of (A), (B), and (C) sources.
 Additionally Science Centers and offices may implement additional policies with which you must comply.
 
-:::::::::::::::
+:::::::::::::
+
+::::::::::::::::::::::::
