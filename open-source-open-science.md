@@ -36,3 +36,11 @@ USGS allows open development practices which do not violate peer review requirem
 TRUE. You can start a provisional release and follow open development practices. We'll talk more about that in later episodes.
 ::::::::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::: keypoints
+
+* Publishing code is a critical part of making science reproducible
+* Code that is published is less likely to contain mistakes or errors
+* Open development makes it easier to make small changes and updates available to an audience, and allows for checks in real-time
+
+:::::::::::::::::::::::::::::::
