@@ -20,6 +20,13 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::: instructor
+
+### Policy Instructor Note
+
+This is an instructor note added within the policy episode.
+
+:::::::::::::::::::::::::
 
 :::::::::::::: challenge
 
