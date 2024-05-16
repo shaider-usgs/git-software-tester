@@ -31,7 +31,7 @@ systems (and potentially add more, e.g. online setup) in the solutions blocks.
 
 ### Windows
 
-Use PuTTY
+Use Git BASH. Reach out to your IT to download Git.
 
 ::::::::::::::::::::::::
 
@@ -40,6 +40,8 @@ Use PuTTY
 ### MacOS
 
 Use Terminal.app
+
+Also reach out to your local IT to download Git.
 
 ::::::::::::::::::::::::
 
