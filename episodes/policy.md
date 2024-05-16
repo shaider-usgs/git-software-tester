@@ -8,7 +8,7 @@ exercises: 0
 
 - What is an official USGS software information product?
 - When am I required to release my software as an official USGS software information product?
-- When may I release my softwre as an official USGS software information product?
+- When may I release my software as an official USGS software information product?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -43,3 +43,13 @@ Additionally Science Centers and offices may implement additional policies with 
 :::::::::::::
 
 ::::::::::::::::::::::::
+
+
+
+::::::::::::::::::::::::::::::::::::: keypoints
+
+- An official USGS software information production is a point-in-time snapshot of a software product that has received the necessary review and approval to be made publicly accessible.
+- Software must be released as an official USGS software information product before it can be cited by other resources (e.g., data releases, journal articles etc.). Local centers may define other factors necessitating a software release.
+- Any software project may be released as an official USGS software information product given it has received the necessary review and approval.
+
+::::::::::::::::::::::::::::::::::::::::::::::::
